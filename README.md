@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rezan</h1>
+<h1 align="center">I'm Rezan</h1>
 <h3 align="center">A full stack engineer, specialized with Typescript, React</h3>
 
 - 💬 Ask me about **React, JavaScript/TypeScript**
